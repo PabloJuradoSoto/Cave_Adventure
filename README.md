@@ -1,1 +1,1 @@
-Hay que ejecutar el .exe en la carpeta Debug
+Para ejecutar el juego, hay que ejecutar Cave Adventure.exe
