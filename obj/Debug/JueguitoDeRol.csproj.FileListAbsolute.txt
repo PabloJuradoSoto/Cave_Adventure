@@ -1,0 +1,21 @@
+C:\Users\Pablo Jurado\Desktop\JueguitoDeRol\obj\Debug\JueguitoDeRol.csproj.AssemblyReference.cache
+C:\Users\Pablo Jurado\Desktop\JueguitoDeRol\obj\Debug\JueguitoDeRol.csproj.CoreCompileInputs.cache
+C:\Users\Pablo Jurado\Desktop\JueguitoDeRol\bin\Debug\JueguitoDeRol.exe.config
+C:\Users\Pablo Jurado\Desktop\JueguitoDeRol\bin\Debug\JueguitoDeRol.exe
+C:\Users\Pablo Jurado\Desktop\JueguitoDeRol\bin\Debug\JueguitoDeRol.pdb
+C:\Users\Pablo Jurado\Desktop\JueguitoDeRol\obj\Debug\JueguitoDeRol.exe
+C:\Users\Pablo Jurado\Desktop\JueguitoDeRol\obj\Debug\JueguitoDeRol.pdb
+C:\Users\PABLOJURADOSOTO\Desktop\JueguitoDeRol\bin\Debug\JueguitoDeRol.exe.config
+C:\Users\PABLOJURADOSOTO\Desktop\JueguitoDeRol\bin\Debug\JueguitoDeRol.exe
+C:\Users\PABLOJURADOSOTO\Desktop\JueguitoDeRol\bin\Debug\JueguitoDeRol.pdb
+C:\Users\PABLOJURADOSOTO\Desktop\JueguitoDeRol\obj\Debug\JueguitoDeRol.csproj.AssemblyReference.cache
+C:\Users\PABLOJURADOSOTO\Desktop\JueguitoDeRol\obj\Debug\JueguitoDeRol.csproj.CoreCompileInputs.cache
+C:\Users\PABLOJURADOSOTO\Desktop\JueguitoDeRol\obj\Debug\JueguitoDeRol.exe
+C:\Users\PABLOJURADOSOTO\Desktop\JueguitoDeRol\obj\Debug\JueguitoDeRol.pdb
+C:\Users\Pablo Jurado\Desktop\JueguitoDeRol -V2\bin\Debug\JueguitoDeRol.exe.config
+C:\Users\Pablo Jurado\Desktop\JueguitoDeRol -V2\bin\Debug\JueguitoDeRol.exe
+C:\Users\Pablo Jurado\Desktop\JueguitoDeRol -V2\bin\Debug\JueguitoDeRol.pdb
+C:\Users\Pablo Jurado\Desktop\JueguitoDeRol -V2\obj\Debug\JueguitoDeRol.csproj.AssemblyReference.cache
+C:\Users\Pablo Jurado\Desktop\JueguitoDeRol -V2\obj\Debug\JueguitoDeRol.csproj.CoreCompileInputs.cache
+C:\Users\Pablo Jurado\Desktop\JueguitoDeRol -V2\obj\Debug\JueguitoDeRol.exe
+C:\Users\Pablo Jurado\Desktop\JueguitoDeRol -V2\obj\Debug\JueguitoDeRol.pdb
